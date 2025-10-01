@@ -1,0 +1,16 @@
+cities=["delhi","chennai","bangalore"]
+
+cities.append("mumbai")
+print(cities)
+cities.insert(0,"Goa")
+print(cities)
+cities.remove("delhi")
+print(cities)
+popped=cities.pop()
+print(cities)
+print(cities.index("chennai"))
+cities.reverse()
+print(cities)
+print(len(cities))
+cities.sort()
+print(cities)
