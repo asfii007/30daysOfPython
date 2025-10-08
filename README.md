@@ -9,31 +9,7 @@ Each day focused on a specific topic or concept, building upon the previous one.
 
 |Day | Topics |
 
-| 1 | Basics: Printing, user input, variables, comments |
-| 2 | Data types & type conversion |
-| 3 | Strings: slicing & common methods |
-| 4 | Lists: indexing & methods |
-| 5 | Tuples & sets |
-| 6 | Dictionaries & escape characters |
-| 7 | Small problems (factorial, prime numbers, swapping) |
-| 8 | Conditional statements & for loops |
-| 9 | While loops |
-| 10 | List comprehension, `zip()`, `map()`, `filter()` |
-| 11 | Functions, parameters, return values |
-| 12 | Error handling |
-| 13 | Mini Project: Number Guessing Game |
-| 14 | Nested lists & dictionaries |
-| 15 | Linear and binary search |
-| 16 | File handling & modes |
-| 17 | CSV file handling |
-| 18 | JSON module basics |
-| 19 | Modules and built-in modules |
-| 20 | Mini Projects: To-Do List, Calculator |
-| 21 | Classes and objects (OOP basics) |
-| 22–24 | Practice problems |
-| 25, 27, 28 | Code snippet debugging & output prediction |
-| 29 | NumPy arrays basics |
-| 30 | Final reflection & GitHub upload |
+| 1 | Basics: Printing, user input, variables, comments| 2 | Data types & type conversion | 3 | Strings: slicing & common methods | 4 | Lists: indexing & methods | 5 | Tuples & sets | 6 | Dictionaries & escape characters | 7 | Small problems (factorial, prime numbers, swapping) | 8 | Conditional statements & for loops | 9 | While loops | 10 | List comprehension, `zip()`, `map()`, `filter()` | 11 | Functions, parameters, return values | 12 | Error handling | 13 | Mini Project: Number Guessing Game | 14 | Nested lists & dictionaries | 15 | Linear and binary search | 16 | File handling & modes | 17 | CSV file handling | 18 | JSON module basics | 19 | Modules and built-in modules | 20 | Mini Projects: To-Do List, Calculator | 21 | Classes and objects (OOP basics) | 22–24 | Practice problems | 25, 27, 28 | Code snippet debugging & output prediction | 29 | NumPy arrays basics | 30 | Final reflection & GitHub upload 
 ---
 ## 🧩 Mini Projects
 
@@ -45,7 +21,7 @@ Each day focused on a specific topic or concept, building upon the previous one.
 ## 🤝 Connect with Me
 
 Let’s connect and learn together!  
-- 💼 [LinkedIn](www.linkedin.com/in/asfiya-madani-9a7884330)  
+- 💼 [LinkedIn]https://www.linkedin.com/in/asfiya-madani-9a7884330/ 
 ---
 
 > “Small progress each day adds up to big results.”  
