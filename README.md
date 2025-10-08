@@ -5,7 +5,7 @@ This repo contains all my daily practice file ,and mini-projects that I complete
 The goal of this challenge was to build a strong foundation in Python by coding **consistently for 30 days** — learning concepts through small problems, projects, and experiments.
 Each day focused on a specific topic or concept, building upon the previous one.
 
-## 📅 Topics Covered
+##  Topics Covered
 
 |Day | Topics |
 
